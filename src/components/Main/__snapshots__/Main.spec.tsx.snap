@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`testing Main component should be render <Main/> component 1`] = `
+<div>
+  <h1>
+    Main component
+  </h1>
+</div>
+`;
